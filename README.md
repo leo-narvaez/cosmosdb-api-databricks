@@ -1,5 +1,6 @@
 # Integración de Azure Cosmos DB con MongoDB, Spark y Databricks para PowerBI
-<img width="1228" alt="cosmosdb-databricks-powerbi" src="https://github.com/user-attachments/assets/f39baec3-fadc-4da9-8b82-9c88437304f5">
+
+![Integración de Azure Cosmos DB con MongoDB, Spark y Databricks para PowerBI](https://github.com/user-attachments/assets/17aecc3f-fb18-4d37-b4c7-f356c0f60604)
 
 Este proyecto de análisis del clima tiene como objetivo capturar datos meteorológicos utilizando la API de OpenWeather, almacenarlos en Cosmos DB y analizarlos mediante Azure Databricks y Power BI para generar visualizaciones útiles. Al proporcionar una experiencia práctica con la recolección, almacenamiento, procesamiento y visualización de datos en un entorno de nube, este proyecto facilita el estudio de los conceptos clave de análisis de datos y permite adquirir habilidades prácticas con herramientas populares en la industria, esenciales para el rol de analista de datos.
 
